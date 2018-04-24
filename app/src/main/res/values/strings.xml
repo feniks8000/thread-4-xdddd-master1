@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">roflanspacer</string>
+    <string name="dialog_fire_missiles">1</string>
+    <string name="fire">1</string>
+    <string name="cancel">1</string>
+</resources>
